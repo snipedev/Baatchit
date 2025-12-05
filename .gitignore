@@ -1,0 +1,63 @@
+## Ignore Visual Studio temporary files, build results, and
+## user-specific files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build directories
+bin/
+obj/
+
+## Visual Studio Code workspace settings
+.vscode/
+
+## Rider
+.idea/
+
+## User secrets
+secrets.json
+*.usersecrets
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## DotNet publish
+publish/
+
+## NuGet
+# NuGet packages
+*.nupkg
+packages/
+
+## Rider
+/.idea/
+
+## OS generated files
+.DS_Store
+Thumbs.db
+
+## Logs
+*.log
+
+## Runtime files
+*.pid
+*.seed
+
+## Rider, Resharper
+_ReSharper*/
+*.DotSettings.user
+
+## DotCover
+.dotCover
+
+## Coverage
+coverage/
+
+## Environment-specific
+appsettings.Development.json
+
+## Backup files
+*~
+*.backup
